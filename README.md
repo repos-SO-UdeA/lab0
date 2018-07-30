@@ -129,6 +129,34 @@ int edad_en_meses(int anios){
 ```
 
 Para entender el codigo anterior y como usarlo vea el siguiente [video](https://www.youtube.com/watch?v=IhQp6eTkmaQ&list=PLlTZ99qnw3zIeOKP8YfMxaKt0GDhAKtHu&index=7) y responda las siguientes preguntas:
-*. ¿Que hace la funcion atoi?
-*. Ademas de atoi existen otras funciones que permitan convertir cadenas de caracteres a numeros reales ¿cuales?.
-*. Existen funciones que convierten valores numericos a cadenas de caracteres  ¿cuales?
+* ¿Que hace la funcion atoi?
+* Ademas de atoi existen otras funciones que permitan convertir cadenas de caracteres a numeros reales ¿cuales?.
+* Existen funciones que convierten valores numericos a cadenas de caracteres  ¿cuales?
+
+## Repasando el uso del compilador compilador ##
+
+A continuacion se muestran algunos ejercicios resueltos codificados en C. Por el momento observelos, si los entiene excelente, si no no se preocupe aun que esto se vera luego. Su mision para este caso, sera compilar y ejecutar cada uno de los ejercicios empleando el gcc.
+
+1. Hacer un programa que calcule el máximo de 2 números.
+
+**Solucion**: [ejemplo1_sol.c](ejemplo1_sol.c)
+
+2. Hacer un programa que diga si un numero es cuadrado perfecto.
+
+**Solucion**: [ejemplo2_sol.c](ejemplo2_sol.c)
+
+3. Hacer un programa que permita calcular el área de diferentes figuras geométricas.
+
+**Solucion**: [ejemplo3_sol.c](ejemplo3_sol.c)
+
+4. Hacer una función que solicite 2 números, genere 10 números aleatorios entre estos 2
+números y cuente la cantidad de números pares.
+
+**Solucion**: [ejemplo4_sol.c](ejemplo4_sol.c)
+
+5. Realizar un programa que calcule el valor de la función seno usando la serie equivalente para
+ello. Los valores de entrada son x y el número de términos. A continuación se muestra la serie
+equivalente:
+
+**Solucion**: [ejemplo5_sol.c](ejemplo5_sol.c)
+
